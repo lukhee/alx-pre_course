@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 *.env
 *.env
+=======
+~/.env
+>>>>>>> 5ac55dac34e8c667fed95ca8fcfaf59ff8f20577
